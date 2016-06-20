@@ -1,6 +1,6 @@
 下载代码：git clone https://github.com/lianbinghua/react-router.git
 
-切换目录到react-router 
+切换目录：cd react-router/react-router 
 
 安装依赖包：npm install,在react-router下多出一个modules文件夹
 
